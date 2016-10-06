@@ -1,0 +1,1 @@
+* * * * * /etc/cloudwatch/aws-scripts-mon/mon-put-instance-data.pl --mem-avail --disk-space-avail --disk-path=/etc/hosts --from-cron > /var/log/cloudwatch.log 2>&1
